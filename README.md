@@ -10,7 +10,7 @@ I've learned that you will have a really difficult time as a security leader (pr
 
 ### Develop nuanced understanding
 
-One thing I share with everyone I work with is that we all have mental models of how stuff works. Models are super useful, but don't confuse them with the real technical system. And by being aware of the limitations of your mental models, you can get to places you couldn't otherwise reach. Most interesting security tings happen in the space between the model and the real system, where it doesn't act the way your intuition tells you it will act. Part of developing a nuanced understanding is seeing the limits of your mental model. Another part is giving those you work with better models than what they have, whether that's by physical security analogies, by demonstrations, or just challenging conversations.
+One thing I share with everyone I work with is that we all have mental models of how stuff works. Models are super useful, but don't confuse them with the real technical system. And by being aware of the limitations of your mental models, you can get to places you couldn't otherwise reach. Most interesting security things happen in the space between the model and the real system, where it doesn't act the way your intuition tells you it will act. Part of developing a nuanced understanding is seeing the limits of your mental model. Another part is giving those you work with better models than what they have, whether that's by physical security analogies, by demonstrations, or just challenging conversations.
 
 ### Build solutions around structures
 
